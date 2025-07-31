@@ -20,38 +20,24 @@ A simple real-time face detection app built using Python, OpenCV, and Tkinter. I
 ## 📦 Installation
 1. **Clone the repository**:
    git clone https://github.com/your-username/your-repo-name.git
--------------------------------------------------------------------------------------------------------
-Install the required libraries:
+**2.Install the required libraries:**
 ->pip install opencv-python pillow
-
---------------------------------------------------------------------------------------------------------
 Make sure the Haar Cascade file is in the project directory:
 ->haarcascade_frontalface_default.xml
 ->Download it from here if not present.
-
---------------------------------------------------------------------------------------------------------
-Run the project:
+**3.Run the project:**
 python face_det_rec.py
-
 --------------------------------------------------------------------------------------------------------
 
-📁 File Structure
+**📁 File Structure**
 ├── face_det_rec.py                # Main Python script for the GUI and face detection
 ├── haarcascade_frontalface_default.xml  # Haar Cascade XML for face detection
 └── README.md                      # Project documentation
 
 -----------------------------------------------------------------------------------------------------
-🙋‍♀️ Author
+**🙋‍♀️ Author**
 ✨Crafted with curiosity 🚀 by Sahithi — turning ideas into code, one project at a time.
 
 -----------------------------------------------------------------------------------------------------
-📄 License
+**📄 License**
 This project is open-source and available under the MIT License.
-
-
-
-
-
-
-
-Ask ChatGPT
